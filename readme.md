@@ -11,7 +11,14 @@ The objective of this task is to **install Netdata** using Docker and visualize 
 - **Browser (Chrome/Firefox)** → To access the monitoring dashboard  
 
 ---
+## Screenshots
+ <img src="./images/result1.png" alt="screenshot" width="800"/>
 
+## Screenshots
+ <img src="./images/result2.png" alt="screenshot" width="800"/>
+
+ ## Screenshots
+ <img src="./images/result3.png" alt="screenshot" width="800"/>
 ## 🚀 Steps Performed  
 
 ### **1. Run Netdata with Docker**  
@@ -133,3 +140,4 @@ Task-7-Netdata-Monitoring/
 │── README.md
 │── screenshots/
 │    └── netdata_dashboard.png
+
