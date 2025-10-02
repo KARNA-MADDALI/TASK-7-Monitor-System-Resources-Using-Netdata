@@ -15,7 +15,7 @@ The objective of this task is to **install Netdata** using Docker and visualize 
  <img src="./images/result1.png" alt="screenshot" width="800"/>
 
 ## Screenshots
- <img src="./images/result2.png" alt="screenshot" width="800"/>
+ <img src="./images/result2.jpg" alt="screenshot" width="800"/>
 
  ## Screenshots
  <img src="./images/result3.png" alt="screenshot" width="800"/>
@@ -140,4 +140,5 @@ Task-7-Netdata-Monitoring/
 │── README.md
 │── screenshots/
 │    └── netdata_dashboard.png
+
 
